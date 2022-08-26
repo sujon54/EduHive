@@ -16,9 +16,9 @@ export default StyleSheet.create({
         borderRadius: 5,
     },
     relatedItem: {
-        width: width/2.5,
+        width: width/2.6,
         marginBottom: 25,
-        height: width / 2,
+        height: 150,
         marginRight: 10,
         borderRadius: 5,
     },
